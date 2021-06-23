@@ -1,0 +1,19 @@
+{
+  "name": "starbuck",
+  "version": "1.0.0",
+  "description": "starbuck site display",
+  "main": "index.html",
+  "scripts": {
+    "start": "vite"
+  },
+  "author": "Vaibhav Goel",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.2.6",
+    "postcss": "^8.3.5",
+    "tailwindcss": "^2.2.2"
+  },
+  "dependencies": {
+    "vite": "^2.3.7"
+  }
+}
